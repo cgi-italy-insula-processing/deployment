@@ -1,0 +1,13 @@
+# Generated values files hold credentials in clear text
+generated/
+*.values.yaml
+values.local.yaml
+
+# Local state copies
+.eoepca/
+
+# Editors and OS noise
+.idea/
+.vscode/
+*.swp
+.DS_Store
